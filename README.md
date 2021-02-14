@@ -13,9 +13,7 @@
 
 Hi, I'm Sunil Tiwari, a Web App Developer , Programmer 🚀 from India
 
-Besides developing stuff , I enjoy listening to music 🎧 , riding bike :bike:, drinking tea :tea: and travelling 🏝️ 
-
-<img align="right" alt="GIF" src="https://i.gifer.com/OOqm.gif" />
+Besides developing stuff , I enjoy listening to music 🎧 , riding bike :bike: , drinking tea :tea:  and travelling 🏝️ 
 
 **Talking about Personal Stuff:**
 
