@@ -19,7 +19,7 @@ Besides developing stuff , I enjoy listening to music 🎧 , riding bike :bike: 
 
 - 🔭 I’m currently working as a Laravel Developer
 - 💬 Ask me about Web Development , Package development.
-- 📫 Mail Me at: <a href="mailto:cybertiwari@gmail.com">cybertiwari@gmail.com</a>
+- 📫 Reach me: <a href="mailto:cybertiwari@gmail.com">cybertiwari@gmail.com</a>
 
 &nbsp;
 <br>
